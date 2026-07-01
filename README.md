@@ -75,7 +75,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/niraj-analytics) for m
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/dashboard-overview.png" alt="E-Commerce Dashboard Overview" width="800"/>
+  <img src="screenshots/E-Commerce%20Dashboard%20Overview.PNG" alt="E-Commerce Dashboard Overview" width="800"/>
 </p>
 
 > 📄 Full report also available as PDF: [E-Commerce_Dashboard.pdf](E-Commerce_Dashboard.pdf)
